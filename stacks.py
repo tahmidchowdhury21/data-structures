@@ -19,7 +19,7 @@ class Stack:
 
     # Return (but do not remove) the element at the top of
     # the stack. Raise Empty exception if the stack is empty.
-    def top_item(self):
+    def peek(self):
         if self.is_empty():
             raise IndexError('Stack is empty')
         else:
@@ -40,7 +40,7 @@ s.push("T")
 s.push("A")
 s.push("C")
 s.push("K")
-s.top_item()       # K
+s.peek()       # K
 s.size()       # 5
 s.is_empty()   # False
 s.pop()        # K
@@ -50,4 +50,4 @@ s.pop()        # T
 s.pop()        # s
 s.is_empty()   # True
 s.size()       # 0
-s.top_item()       # IndexError: Stack is empty
+s.peek()       # IndexError: Stack is empty
