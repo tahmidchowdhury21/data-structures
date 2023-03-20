@@ -23,6 +23,18 @@ class LinkedList:
         new_node.next = self.head
         self.head = new_node
 
+    def remove_from_end(self):
+        if self.head is None:
+            print("List is empty")
+            return
+        if self.head.next is None:
+            self.head = None
+            return
+        current_node = self.head
+        while current_node.next.next is not None:
+            current_node = current_node.next
+        current_node.next = None
+
     def add_to_middle(self, data, position):
         if position == 1:
             self.add_data_to_begin(data)
@@ -61,4 +73,6 @@ ls.add_data_to_begin(0)
 ls.print_list()
 print()
 ls.add_to_middle(44, 2)
+ls.print_list()
+ls.remove_from_end()
 ls.print_list()
