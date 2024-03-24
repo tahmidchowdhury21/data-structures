@@ -6,9 +6,11 @@ Welcome to my Python Data Structures and Algorithms repository! Here, I'm learni
 
 This repository contains implementations of the following data structures and algorithms:
 
+- [x] Arrays
 - [x] Linked List
-- [ ] Stacks
-- [ ] Queues
+- [x] Stacks
+- [x] Queues
+- [ ] Recursion
 - [ ] Binary Tree
 - [ ] Hashmap
 - [ ] Much more to come!
