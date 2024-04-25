@@ -10,10 +10,37 @@ This repository contains implementations of the following data structures and al
 - [x] Linked List
 - [x] Stacks
 - [x] Queues
-- [ ] Recursion
-- [ ] Binary Tree
-- [ ] Hashmap
-- [ ] Much more to come!
+- [x] Recursion
+- [x] Binary Tree
+- [x] Binary Search Tree
+- [x] AVL Tree
+- [ ] Binary Heap
+- [ ] Trie
+- [ ] Hashing
+- [ ] Sort Algorthims
+- [ ] Searching Algorthims
+- [ ] Graph Algorthims
+- [ ] Graph Traversal - Breadth-first & Search and Depth First Search
+- [ ] Topological Sort
+- [ ] Single Source Shortest Path
+- [ ] Graph Algorthims - Dijsktra's Algorithm
+- [ ] Graph Algorthims - Bellman Ford Algorithm
+- [ ] All Pairs Shortest Path
+- [ ] Graph Algorthims - Floyd Warshall Algorithm
+- [ ] Minimum Spanning Tree (Disjoint Set)
+- [ ] Graph Algorthims - Kruskal and Prim's Algorithms
+
+- [ ] Some Interview Questions (Trees and Graphs)
+
+- [ ] Greedy Algorthims
+- [ ] Divide and Conquer Algorthims
+- [ ] Dynamic Programming
+
+- [ ] Challenging Dynamic Programming Questions
+- [ ] Recipe for Problem Solving
+
+- [ ] Backtracking
+- [ ] Wild West of Algorithms
 
 ## Getting Started
 

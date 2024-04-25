@@ -31,22 +31,23 @@ class Queue:
     
     def delete(self):
         self.list = None
-    
-queue = Queue()
-queue.enqueue(1)
-queue.enqueue(20)
-queue.enqueue(30)
 
-print(queue)
+if __name__ == "__main__":
+    queue = Queue()
+    queue.enqueue(1)
+    queue.enqueue(20)
+    queue.enqueue(30)
 
-print("-------")
+    print(queue)
 
-queue.dequeue()
+    print("-------")
 
-print(queue)
+    queue.dequeue()
 
-print("-------")
+    print(queue)
 
-queue.delete()
+    print("-------")
 
-print(queue)
+    queue.delete()
+
+    print(queue)
