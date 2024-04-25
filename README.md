@@ -10,7 +10,7 @@ This repository contains implementations of the following data structures and al
 - [x] Linked List
 - [x] Stacks
 - [x] Queues
-- [x] Recursion
+- [x] Recursions
 - [x] Binary Tree
 - [x] Binary Search Tree
 - [x] AVL Tree
