@@ -49,19 +49,18 @@ To explore the implementations and learn more about each data structure or algor
 ```plaintext
 data_structures/
     ├── linked_list/
-    │   ├── linked_list.py
     │   └── ...
-    ├── stacks/ (Work in Progress)
-    │   ├── stack.py
+    ├── stacks/
     │   └── ...
-    ├── queues/ (Future work in Progress)
-    │   ├── queue.py
+    ├── queues/
     │   └── ...
-    ├── binary_tree/ (Future work in Progress)
-    │   ├── binary_tree.py
+    |__ recursions/
     │   └── ...
-    ├── hashmap/ (Future work in Progress)
-    │   ├── hashmap.py
+    ├── binary_tree/
+    │   └── ...
+    ├── binary_search_tree/
+    │   └── ...
+    ├── avl_tree/
     │   └── ...
     └── ...
 ```
