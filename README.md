@@ -14,9 +14,9 @@ This repository contains implementations of the following data structures and al
 - [x] Binary Tree
 - [x] Binary Search Tree
 - [x] AVL Tree
-- [ ] Binary Heap
-- [ ] Trie
-- [ ] Hashing
+- [x] Binary Heap
+- [x] Trie
+- [x] Hashing
 - [ ] Sort Algorthims
 - [ ] Searching Algorthims
 - [ ] Graph Algorthims
